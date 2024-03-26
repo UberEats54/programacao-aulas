@@ -1,0 +1,47 @@
+body{
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: hsl(0, 0%, 20%);
+}
+
+p{
+    font-size: 270%;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.container{
+    background-color: hsl(122, 100%, 33%);
+    /*border: solid 2px black;*/
+    border-radius: 25px;
+    padding: 25px 15px 25px 15px;
+}
+
+.lista{
+    background-color: hsl(0, 0%, 82%);
+    border-radius: 55px;
+    display: grid;
+    grid-template-columns: 10vw 65vw;
+    grid-template-rows: 5vh;
+    column-gap: 20px;
+}
+
+.textHolder p{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.imageContainer{
+    background-color: hsl(0, 0%, 100%);
+    padding: 12px;
+    border-radius: 55px;
+}
+
+#tagDia{
+    background-color: hsl(122, 100%, 33%);
+    text-align: center;
+    padding-top: 2vh;
+    height: 5vh;
+    font-size: 320%;
+}
