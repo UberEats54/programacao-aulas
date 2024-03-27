@@ -6,7 +6,7 @@ body{
 }
 
 p{
-    font-size: 270%;
+    font-size: 200%;
     font-weight: 500;
     font-family: sans-serif;
 }
@@ -28,13 +28,13 @@ p{
 }
 
 .textHolder p{
-    margin-top: 20px;
+    margin-top: 5px;
     margin-left: 10px;
 }
 
 .imageContainer{
     background-color: hsl(0, 0%, 100%);
-    padding: 12px;
+    padding: 6px;
     border-radius: 55px;
 }
 
@@ -43,5 +43,5 @@ p{
     text-align: center;
     padding-top: 2vh;
     height: 5vh;
-    font-size: 320%;
+    font-size: 200%;
 }
